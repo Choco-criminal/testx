@@ -86,6 +86,6 @@ urllib3==2.1.0
 validators
 wikipedia==1.4.0
 wget
-youtube-search==2.1.2
-youtube-search-python==2.2.1
+youtube-search
+youtube-search-python
 zalgo-text
