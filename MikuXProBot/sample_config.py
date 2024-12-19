@@ -14,17 +14,17 @@ class Config(object):
     # REQUIRED
     #Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = "awoo"  # integer value, dont use ""
-    API_HASH = "awoo"
-    TOKEN = "awoo"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 769830161 # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "awoo"
+    API_ID = "23128450"  # integer value, dont use ""
+    API_HASH = "e17326ba974a522dddd8b9e9285d592a"
+    TOKEN = "7764287955:AAE0zQiW7YdZouzfj70pxtWG_zp9FsCHAD0"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    OWNER_ID = 1266240012 # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "UnknownX_9_11"
     SUPPORT_CHAT = 'mikussupport'  #Your own group for support, do not add the @
-    JOIN_LOGGER = -123456789  #Prints any new group the bot is added to, prints just the name and ID.
-    EVENT_LOGS = -123446789  #Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
+    JOIN_LOGGER = -1002300615380  #Prints any new group the bot is added to, prints just the name and ID.
+    EVENT_LOGS = -1002300615380  #Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     #RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = 'something://somewhat:user@hosturl:port/databasename'  # needed for any database modules
+    SQLALCHEMY_DATABASE_URI = 'postgres://avnadmin:AVNS_1B7w3FoGE-PcdGfFUjt@test-anujbharti4333-ad54.l.aivencloud.com:15893/defaultdb?sslmode=require''  # needed for any database modules
     LOAD = []
     NO_LOAD = ['rss', 'cleaner', 'connection', 'math']
     WEBHOOK = False
