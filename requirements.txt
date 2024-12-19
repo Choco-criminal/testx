@@ -1,3 +1,8 @@
+aiofiles==23.1.0
+aiohttp==3.8.4
+apscheduler==3.6.3
+asyncio==3.4.3
+beautifulsoup4==4.12.2
 future
 envparse==0.2.0
 multicolorcaptcha
@@ -19,8 +24,8 @@ lxml
 textblob==0.17.1
 beautifulsoup4
 requests
-sqlalchemy==1.3.23
-python-telegram-bot==13.12
+sqlalchemy==1.4.46
+python-telegram-bot==13.15
 cloudscraper==1.2.58
 psycopg2-binary
 feedparser
@@ -35,7 +40,7 @@ coffeehouse
 pymongo==3.12.0
 regex
 bleach
-git+https://github.com/starry69/python-markdown2.git
+markdown2==2.4.9
 wikipedia
 telethon==1.24.0
 spamwatch
@@ -61,8 +66,7 @@ hachoir
 pybase64
 pySmartDL
 validators
-pyrogram==1.4.0
-asyncio
+pyrogram==2.0.106
 nltk
 aiohttp>=3.7.4
 pykeyboard==0.1.2
