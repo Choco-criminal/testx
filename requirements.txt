@@ -55,7 +55,7 @@ pykeyboard
 PyDictionary
 Pillow>=4.2.0
 pymongo
-pynewtonmath==1.0.3
+pynewtonmath
 pyrogram==2.0.106
 pyrate-limiter
 python-arq==6.0.3
