@@ -80,12 +80,12 @@ telegraph==2.1.0
 telethon==1.24.0
 textblob==0.17.1
 tgcrypto==1.2.3
-tswift==1.1
+tswift
 umongo==3.0.0
 urllib3==2.1.0
 validators
 wikipedia==1.4.0
-wget==3.2
+wget
 youtube-search==2.1.2
 youtube-search-python==2.2.1
-zalgo-text==1.2.0
+zalgo-text
